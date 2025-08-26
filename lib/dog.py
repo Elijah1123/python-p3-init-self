@@ -12,7 +12,7 @@ class Dog:
         print("The dog is sitting.")
 
 
-Tom = Dog("Tom")
+# Tom = Dog("Tom")
 # Tom.name()
 
 # German Shepherd = Dog("German Shepherd")

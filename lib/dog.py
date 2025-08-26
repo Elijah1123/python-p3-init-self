@@ -4,7 +4,7 @@ class Dog:
     def __init__(self, name, breed="Mutt"):  # Default breed is set to "Mutt"
         self.name = name
         self.breed = breed
-    # print(f"The {name} is a  {breed} Dog")
+    # print(f" {name} is a Dog")
     def bark(self):
         print("Woof!")
 
@@ -13,7 +13,7 @@ class Dog:
 
 
 Tom = Dog("Tom")
-Tom.name()
+# Tom.name()
 
 # German Shepherd = Dog("German Shepherd")
 # German Shepherd.breed()
